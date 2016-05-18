@@ -1,1 +1,1 @@
-# custom-post-type-customer
+# custom-post-type-customers
