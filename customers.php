@@ -1,4 +1,3 @@
-
 <?php
 /*
 Plugin Name: Custom Post Type: Customers
